@@ -1,4 +1,5 @@
 2015-03-05
+Jasmine realizes there is a Taco Bell App!!
 
 2015-03-04
 Arty ate sandwich from Phoenix grill.
